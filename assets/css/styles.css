@@ -1,0 +1,29 @@
+body{
+color: lawngreen;
+background-color: black;
+text-align: center;
+}
+
+p{
+    font-size: medium;
+}
+
+button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    font-size: large;
+    border: 2px solid bisque none;
+}
+
+button:hover{
+
+    background-color: azure;
+
+}
+
+#currentNumber{
+    padding-left: 50px;
+    padding-right: 50px;
+    size: 150px;
+}
